@@ -1,4 +1,5 @@
 # Frontend Mentor - Stats preview card component
+## this project done by mitra jahani
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
